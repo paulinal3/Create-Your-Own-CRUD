@@ -40,7 +40,7 @@ app.post('/item', (req, res)=>{
 }
 ```
 
-**Note that you will not be able to tuest the POST/PUT/DELETE route from the browser.*** If this bugs you, you're welcome to look into [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) and try using one of those tools to test these routes!
+**Note that you will not be able to test the POST/PUT/DELETE route from the browser.*** If this bugs you, you're welcome to look into [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) and try using one of those tools to test these routes!
 
 ## BONUS: Add templates!
 
